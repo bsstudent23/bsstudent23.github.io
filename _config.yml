@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Star History"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "J.S.C"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://bsstudent23.github.io" 
 baseurl                  : ""
